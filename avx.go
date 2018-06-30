@@ -2,6 +2,7 @@ package avx
 
 /*
 #cgo CFLAGS: -mavx -std=c99
+#cgo LDFLAGS: -lm
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
