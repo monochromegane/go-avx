@@ -1,4 +1,4 @@
-# go-avx
+# go-avx [![Build Status](https://travis-ci.org/monochromegane/go-avx.svg?branch=master)](https://travis-ci.org/monochromegane/go-avx)
 
 AVX(Advanced Vector Extensions) binding for golang.
 
